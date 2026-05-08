@@ -1,0 +1,18 @@
+# Source tarballs (huge, fetched separately)
+sources/
+*.tar.*
+*.tgz
+*.tbz2
+
+# Build artifacts
+*.log
+*.o
+*.a
+
+# Editor/OS junk
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
