@@ -9,6 +9,6 @@
 - Secondary Edit Host: ThinkPad	with Fedora, i5-8365U, 32GB RAM
 - ARM Build Host: MacBook Air M2 with Asahi Linux, 8GB RAM
 - Compile Defaults: make -j8 on	ThinkPad / make	-j4 on VM, ccache enabled
-
-
+- LFS Book Version: 12.4 SysVinit (last SysVinit-supported release)
+- Init Strategy: Build per book with SysVinit, swap to runit in dedicated migration Phase
 
